@@ -1,0 +1,24 @@
+{
+  "name": "cruk-donation-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pooventhan/cruk-donation-workflow.git"
+  },
+  "author": "Pooventhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pooventhan/cruk-donation-workflow/issues"
+  },
+  "homepage": "https://github.com/pooventhan/cruk-donation-workflow#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2",
+    "cypress-iframe": "^1.0.1",
+    "typescript": "^4.6.2"
+  }
+}
